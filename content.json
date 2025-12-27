@@ -1,0 +1,17 @@
+{
+    "name": "张三",
+    "school": "XX大学",
+    "major": "计算机科学与技术",
+    "grade": "2024级本科生",
+    "motto": "在代码中沉淀，在实践中成长",
+    "intro": "专注Python数据分析与机器学习，喜欢通过开源项目打磨技能，参与过校园数据清洗实践项目，擅长用技术解决实际问题。",
+    "skills": [
+        {"name": "Python", "level": "熟练"},
+        {"name": "数据分析", "level": "掌握"},
+        {"name": "HTML/CSS", "level": "基础"}
+    ],
+    "contacts": [
+        {"name": "GitHub", "link": "https://github.com/你的用户名"},
+        {"name": "邮箱", "link": "mailto:你的邮箱@xxx.com"}
+    ]
+}
